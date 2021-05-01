@@ -1,5 +1,5 @@
 # Counter
-**Simple Counter using the DOM JS**
+**Simple Counter**
 
 A practice project made with vanilla JavaScript alone.
 
